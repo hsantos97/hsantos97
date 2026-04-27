@@ -1,19 +1,45 @@
-## Hi ! I am Harison Santos 😁
+## Hi, I'm Harison Santos 👋  
+### 🚀 Data Engineer | Python | PySpark | Azure
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsantos97&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsantos97&layout=compact)
+I’m a Data Engineer with experience in building scalable data pipelines, working with large datasets and cloud platforms.
 
-<div align="center">
-  <img alt="C" title="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="JAVA" title="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-  <img alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img alt="nodeJS" title="Node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img alt="C++" title="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+- 🔭 Currently working with Data Engineering (PySpark, Azure, SQL)
+- 🌍 Based in Ireland
+- 📊 Passionate about data, automation and scalable systems
+- 🎯 Goal: Become a specialist in Data & AI solutions
+
+---
+
+### 🧠 Tech Stack
+
+**Languages & Tools**
+<div>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
 
-<a href="https://www.linkedin.com/in/harison-santos-262944118/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+**Cloud & Data**
+- Azure Synapse Analytics  
+- Azure Data Factory  
+- PySpark  
+- Data Warehousing  
 
+---
+
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsantos97&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsantos97&layout=compact)
+
+---
+
+### 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/harison-santos-262944118/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
