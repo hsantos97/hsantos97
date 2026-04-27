@@ -28,11 +28,9 @@ I’m a Data Engineer with experience in building scalable data pipelines, worki
 
 ---
 
-### 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsantos97&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsantos97&layout=compact)
+![Snake animation](https://github.com/hsantos97/hsantos97/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
