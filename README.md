@@ -30,7 +30,7 @@ I’m a Data Engineer with experience in building scalable data pipelines, worki
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/hsantos97/hsantos97/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/hsantos97/hsantos97/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
